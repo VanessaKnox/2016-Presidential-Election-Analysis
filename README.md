@@ -7,7 +7,7 @@ random variables that need to be accounted for in terms of what a voter will dec
 
 Ultimately, there are many factors that need to be considered, but not all of them are easily predicted, leading to errors that can have drastic changes in the overall election forecasting.
 
-### Packages
+### Program
 R Studio 
 
 ## Contributors
