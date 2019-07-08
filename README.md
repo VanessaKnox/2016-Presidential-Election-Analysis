@@ -12,6 +12,17 @@ Ultimately, there are many factors that need to be considered, but not all of th
 ### Program
 R Studio 
 
-## Contributors
-Lauren Wong
-Alison Do
+### Methodology
+* Data Wrangling
+* Principal Component Analysis
+* Hierarchical Clustering
+* Decision Tree Classification
+* Logistic Regression
+* Lasso Regression
+* Gradient Boosting
+* Bootstrap Aggregating
+* Random Forest 
+
+### Contributors
+* Lauren Wong
+* Alison Do
