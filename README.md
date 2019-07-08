@@ -1,7 +1,6 @@
 # 2016 U.S. Voter Behavior and Election Analysis
 
-![Winning Candidate by County](/Users/laurenwong/Desktop/countrypic.png)
-
+<img width="673" alt="countrypic" src="https://user-images.githubusercontent.com/30671201/60775770-4c4e6980-a0db-11e9-97b9-dbc0750428ae.png">
 
 An analysis on the 2016 presidential election to determine how high of an accuracy voter behavior predictions, such as classifying in a minority or upper class, can determine the outcome of an election. 
 
