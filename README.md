@@ -23,6 +23,21 @@ R Studio
 * Bootstrap Aggregating
 * Random Forest 
 
+### Conclusions
+According to the ROC curves, the logistic regression and lasso methods return the highest true positive rate,
+as both curves hug the upper left corner the most. We also decided to calculate the AUC (Area Under
+Curve) for each method to better determine which method provides the best predictions. The AUC for the
+decision tree method is the lowest at 0.8297726 while the AUC values for logistic regression and the lasso
+method are the highest and the exact same value at 0.9528419, confirming that these two methods are the
+best predictive models.
+
+In regards to which classifier is more appropriate, we believe that in the context of understanding voter
+behavior which entails narrowing down the most important variables, the decision tree fails to answer this
+election question better or equally as well as the lasso and logistic regression models. The lasso is able to
+do so with our large data set, and the logistic regression model helps us better identify, through perfect
+separation, the best candidate in the election for each variable group, thus giving us more insight on voter
+behavior.
+
 ### Contributors
 * Lauren Wong
 * Alison Do
