@@ -1,5 +1,8 @@
 # 2016 U.S. Voter Behavior and Election Analysis
 
+![Winning Candidate by County](/Users/laurenwong/Desktop/countrypic.png)
+
+
 An analysis on the 2016 presidential election to determine how high of an accuracy voter behavior predictions, such as classifying in a minority or upper class, can determine the outcome of an election. 
 
 Voter behavior prediction (and thus election forecasting) can be a hard problem because there are numerous
